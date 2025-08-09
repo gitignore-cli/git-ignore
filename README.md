@@ -31,13 +31,13 @@
 Run the following commands to install:
 
 ```
-brew tap janniks/git-ignore
+brew tap gitignore-cli/git-ignore
 brew install git-ignore
 ```
 
 <details>
 <summary><i>Expand for uninstall instructions</i></summary>
-<p><pre>brew untap janniks/git-ignore
+<p><pre>brew untap gitignore-cli/git-ignore
 brew uninstall git-ignore</pre></p>
 </details>
 
@@ -49,7 +49,7 @@ brew uninstall git-ignore</pre></p>
 2. Clone the repository via git and enter the project folder:
 
 ```
-git clone https://github.com/janniks/git-ignore.git
+git clone https://github.com/gitignore-cli/git-ignore.git
 cd git-ignore
 ```
 
