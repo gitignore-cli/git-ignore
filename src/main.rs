@@ -22,7 +22,7 @@ type Result<T> = std::result::Result<T, Box<dyn Error>>;
 
 // config
 const SHOW_LINES: usize = 4;
-const TEMPLATES_URL: &str = "https://api.github.com/repos/toptal/gitignore/contents/templates";
+const TEMPLATES_URL: &str = "https://api.github.com/repos/makp0/toptal_gitignore/contents/templates";
 const IGNORE_URL: &str = "https://www.toptal.com/developers/gitignore/api/";
 
 // crossterm shortconsts
